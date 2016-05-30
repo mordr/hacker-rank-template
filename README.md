@@ -6,3 +6,4 @@ Simple eclipse project containing a java template for HackerRank.
 
 * `gradle clean eclipse`
 * `gradle clean build`
+* Import into eclipse and can run as java application.
